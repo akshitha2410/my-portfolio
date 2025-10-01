@@ -1,5 +1,5 @@
 Portfolio Website
-This is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and contact information.
+This is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and contact info
 
 Features
 Responsive design for desktop and mobile devices
